@@ -22,7 +22,7 @@ There are no mandatory dependencies to be installed before running/testing proje
 
 ▶️ Execution
 
-Instrucciones para la ejecución del proyecto una vez instalado.
+To run a .js file in the terminal using Node write `node file-name.js`.
 
 🤝 Contributions
 
