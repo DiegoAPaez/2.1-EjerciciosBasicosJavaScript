@@ -1,29 +1,29 @@
-# 2.1 - Basic JavaScript Exercises
+2.1 - Basic JavaScript Exercises
 
-## 1.3: Callbacks
+Explore specific topics by switching to the corresponding branch. Each branch contains specific exercises ordered by level.
 
-### Level 1
+### Branch Guide:
 
-#### Exercise 1
+-   **`arrow`**: Arrow Functions.
+-   **`ternary`**: Ternary Operator.
+-   **`callbacks`**: Callbacks.
+-   **`restspread`**: Rest and Spread Operators.
+-   **`transformations`**: Array Transformations.
+-   **`loops`**: Array Loops.
+-   **`promises`**: Promises & Async/Await.
 
-Basic callback: Write a function called `process` that accepts two parameters: a number and a callback function. The `process` function should invoke the callback function, passing the number as a parameter.
+💻 Technologies Used
 
-#### Exercise 2
+JavaScript
 
-Callbacks with mathematical operations: Write a function `calculator` that accepts three parameters: two numbers and a callback function. The `calculator` function should invoke the callback function with the two numbers as parameters. Then, call `calculator` with a function that performs the sum of the two numbers.
+📋 Requirements - 🛠️ Installation
 
-### Level 2
+There are no mandatory dependencies to be installed before running/testing project files, but Node.js must be installed to execute them in the terminal. Otherwise you can create and index.html file and link each script inside it's body.
 
-#### Exercise 3
+▶️ Execution
 
-Using callbacks in asynchronous functions: Write a function `waitAndGreet` that accepts two parameters: a name and a callback function. The function should wait for 2 seconds and then invoke the callback function, passing the name as a parameter.
+To run a .js file in the terminal using Node write `node file-name.js`.
 
-#### Exercise 4
+🤝 Contributions
 
-Callbacks with arrays: Write a function `processElements` that accepts two parameters: an array and a callback function. The `processElements` function should invoke the callback function for each element in the array.
-
-### Level 3
-
-#### Exercise 5
-
-Write a function `processString` that accepts two parameters: a string and a callback function. The `processString` function should convert the string to uppercase and then invoke the callback function with the transformed string.
+Contributions are welcome. Please follow the project's guidelines for submitting changes.
