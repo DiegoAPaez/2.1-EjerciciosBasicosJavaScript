@@ -1,4 +1,4 @@
-# 2.1 - Basic JavaScript Exercises
+2.1 - Basic JavaScript Exercises
 
 Explore specific topics by switching to the corresponding branch. Each branch contains specific exercises ordered by level.
 
