@@ -1,27 +1,29 @@
-# 2.1 - Basic JavaScript Exercises
+2.1 - Basic JavaScript Exercises
 
-## 1.2: Ternary operator
+Explore specific topics by switching to the corresponding branch. Each branch contains specific exercises ordered by level.
 
-### Level 1
+### Branch Guide:
 
-#### Exercise 1
+-   **`arrow`**: Arrow Functions.
+-   **`ternary`**: Ternary Operator.
+-   **`callbacks`**: Callbacks.
+-   **`restspread`**: Rest and Spread Operators.
+-   **`transformations`**: Array Transformations.
+-   **`loops`**: Array Loops.
+-   **`promises`**: Promises & Async/Await.
 
-Basic ternary operator: Write a function `canDrive` that accepts age as a parameter and uses the ternary operator to determine if the user can drive. If the age is 18 or older, it should return 'You can drive'. Otherwise, it should return 'You cannot drive'.
+💻 Technologies Used
 
-#### Exercise 2
+JavaScript
 
-Using comparison operators: Write an expression that uses the ternary operator to determine which of the two given numbers (`num1` and `num2`) is greater. If `num1` is greater, return 'num1 is greater'. Otherwise, return 'num2 is greater'.
+📋 Requirements - 🛠️ Installation
 
-### Level 2
+There are no mandatory dependencies to be installed before running/testing project files, but Node.js must be installed to execute them in the terminal. Otherwise you can create and index.html file and link each script inside it's body.
 
-#### Exercise 3
+▶️ Execution
 
-Chained ternary operators: Write an expression that uses chained ternary operators to determine if a number is positive, negative, or zero.
+To run a .js file in the terminal using Node write `node file-name.js`.
 
-Ternary operator with functions: Create a function `findMaximum` that accepts three parameters (`a`, `b`, `c`) and uses the ternary operator to determine the maximum value.
+🤝 Contributions
 
-### Level 3
-
-#### Exercise 4
-
-Ternary operator inside a loop: Write a function `evenOrOdd` that accepts an array of numbers and uses a loop to iterate through the array. Inside the loop, use the ternary operator to determine if each number is even or odd.
+Contributions are welcome. Please follow the project's guidelines for submitting changes.
