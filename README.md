@@ -57,5 +57,6 @@ Then explore specific topics by switching to the corresponding directory or bran
 
 Contributions are welcome. Please follow the [project's guidelines](CONTRIBUTING.md) for submitting changes.
 
-![Static Badge](https://img.shields.io/badge/Completed-Completed?style=flat-square&label=Status)
-![Static Badge](https://img.shields.io/badge/Pending-Revision?style=flat-square&label=Revision&color=yellow)
+## ⏳ Project Status
+
+![Static Badge](https://img.shields.io/badge/Completed-Completed?style=flat-square&label=Status) ![Static Badge](https://img.shields.io/badge/Pending-Revision?style=flat-square&label=Revision&color=yellow)
