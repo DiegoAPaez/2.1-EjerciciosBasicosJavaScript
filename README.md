@@ -1,4 +1,4 @@
-# 2.1 - Basic JavaScript Exercises
+# 📚 2.1 - Basic JavaScript Exercises
 
 ## 🧠 Goals
 
@@ -8,16 +8,16 @@
 -   Learn and utilize the Rest and Spread operators.
 -   Familiarize with loops and transformations in arrays.
 
-## 🚀 Getting Started
+## 🛠️ Getting Started
 
-### 1. Clone this repository
+### 1️⃣ Clone this repository
 
 ```bash
 git clone https://github.com/DiegoAPaez/2.1-EjerciciosBasicosJavaScript.git
 cd 2.1-EjerciciosBasicosJavaScript
 ```
 
-### 2. Switch to `develop` branch
+### 2️⃣ Switch to `develop` branch
 
 ```bash
 git checkout develop
