@@ -1,5 +1,13 @@
 # 2.1 - Basic JavaScript Exercises
 
+## 🧠 Goals
+
+-   Understand and practice the use of arrow functions.
+-   Learn and apply the ternary operator in different contexts.
+-   Comprehend and practice with callbacks.
+-   Learn and utilize the Rest and Spread operators.
+-   Familiarize with loops and transformations in arrays.
+
 ## 🚀 Getting Started
 
 ### 1. Clone this repository
@@ -15,17 +23,7 @@ cd 2.1-EjerciciosBasicosJavaScript
 git checkout develop
 ```
 
-Then explore specific topics by switching to the corresponding directory or branch. Each directory or branch contains specific exercises ordered by level. A README file is included with the subject for each exercise.
-
-### Branch Guide:
-
--   `arrow`: Arrow Functions.
--   `ternary`: Ternary Operator.
--   `callbacks`: Callbacks.
--   `restspread`: Rest and Spread Operators.
--   `transformations`: Array Transformations.
--   `loops`: Array Loops.
--   `promises`: Promises & Async/Await.
+Then explore specific topics by switching to the corresponding directory. Each directory contains specific exercises ordered by level. A README file is included with the subject for each exercise.
 
 ## 📁 Folder Structure
 
@@ -40,14 +38,6 @@ Then explore specific topics by switching to the corresponding directory or bran
  ┗ 📂 07-promises/
 📄 README.md
 ```
-
-## 🧠 Goals
-
--   Understand and practice the use of arrow functions.
--   Learn and apply the ternary operator in different contexts.
--   Comprehend and practice with callbacks.
--   Learn and utilize the Rest and Spread operators.
--   Familiarize with loops and transformations in arrays.
 
 ## 💻 Technologies Used
 
