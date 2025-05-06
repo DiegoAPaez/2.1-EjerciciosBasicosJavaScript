@@ -1,29 +1,61 @@
-2.1 - Basic JavaScript Exercises
+# 2.1 - Basic JavaScript Exercises
 
-Explore specific topics by switching to the corresponding branch. Each branch contains specific exercises ordered by level.
+## 🚀 Getting Started
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/DiegoAPaez/2.1-EjerciciosBasicosJavaScript.git
+cd 2.1-EjerciciosBasicosJavaScript
+```
+
+### 2. Switch to `develop` branch
+
+```bash
+git checkout develop
+```
+
+Then explore specific topics by switching to the corresponding directory or branch. Each directory or branch contains specific exercises ordered by level. A README file is included with the subject for each exercise.
 
 ### Branch Guide:
 
--   **`arrow`**: Arrow Functions.
--   **`ternary`**: Ternary Operator.
--   **`callbacks`**: Callbacks.
--   **`restspread`**: Rest and Spread Operators.
--   **`transformations`**: Array Transformations.
--   **`loops`**: Array Loops.
--   **`promises`**: Promises & Async/Await.
+-   `arrow`: Arrow Functions.
+-   `ternary`: Ternary Operator.
+-   `callbacks`: Callbacks.
+-   `restspread`: Rest and Spread Operators.
+-   `transformations`: Array Transformations.
+-   `loops`: Array Loops.
+-   `promises`: Promises & Async/Await.
 
-💻 Technologies Used
+## 📁 Folder Structure
 
-JavaScript
+```
+📦 scripts
+ ┣ 📂 01-arrow-functions/
+ ┣ 📂 02-ternary-operator/
+ ┣ 📂 03-callbacks/
+ ┣ 📂 04-rest-spread-operator/
+ ┣ 📂 05-array-transformations/
+ ┣ 📂 06-array-loops/
+ ┗ 📂 07-promises/
+📄 README.md
+```
 
-📋 Requirements - 🛠️ Installation
+## 🧠 Goals
 
-There are no mandatory dependencies to be installed before running/testing project files, but Node.js must be installed to execute them in the terminal. Otherwise you can create and index.html file and link each script inside it's body.
+-   Understand and practice the use of arrow functions.
+-   Learn and apply the ternary operator in different contexts.
+-   Comprehend and practice with callbacks.
+-   Learn and utilize the Rest and Spread operators.
+-   Familiarize with loops and transformations in arrays.
 
-▶️ Execution
+## 💻 Technologies Used
 
-To run a .js file in the terminal using Node write `node file-name.js`.
+![JavaScript Icon](https://skillicons.dev/icons?i=js "JavaScript Icon")
 
-🤝 Contributions
+## 🤝 Contributions
 
-Contributions are welcome. Please follow the project's guidelines for submitting changes.
+Contributions are welcome. Please follow the [project's guidelines](CONTRIBUTING.md) for submitting changes.
+
+![Static Badge](https://img.shields.io/badge/Completed-Completed?style=flat-square&label=Status)
+![Static Badge](https://img.shields.io/badge/Pending-Revision?style=flat-square&label=Revision&color=yellow)
