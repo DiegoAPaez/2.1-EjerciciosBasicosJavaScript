@@ -1,33 +1,29 @@
-# 2.1 - Basic JavaScript Exercises
+2.1 - Basic JavaScript Exercises
 
-## 1.6: Array loops
+Explore specific topics by switching to the corresponding branch. Each branch contains specific exercises ordered by level.
 
-### Level 1
+### Branch Guide:
 
-#### Exercise 1
+-   **`arrow`**: Arrow Functions.
+-   **`ternary`**: Ternary Operator.
+-   **`callbacks`**: Callbacks.
+-   **`restspread`**: Rest and Spread Operators.
+-   **`transformations`**: Array Transformations.
+-   **`loops`**: Array Loops.
+-   **`promises`**: Promises & Async/Await.
 
-forEach: You have an array of names. Use `forEach` to print each name to the console: `let names = ['Anna', 'Bernat', 'Clara'];`.
+💻 Technologies Used
 
-#### Exercise 2
+JavaScript
 
-for-of: You have an array of names. Use a `for-of` loop to print each name to the console: `let names = ['Anna', 'Bernat', 'Clara'];`.
+📋 Requirements - 🛠️ Installation
 
-#### Exercise 3
+There are no mandatory dependencies to be installed before running/testing project files, but Node.js must be installed to execute them in the terminal. Otherwise you can create and index.html file and link each script inside it's body.
 
-Filter: You have an array of numbers. Use `filter` to create a new array that only contains the even numbers: `let numbers = [1, 2, 3, 4, 5, 6];`.
+▶️ Execution
 
-### Level 2
+To run a .js file in the terminal using Node write `node file-name.js`.
 
-#### Exercise 4
+🤝 Contributions
 
-for-in: You have an object with key-value pairs: `let obj = { name: 'Ola', age: 25, city: 'Barcelona' };`. Use a `for-in` loop to print each key and its corresponding value to the console.
-
-#### Exercise 5
-
-for-of with break: You have an array of numbers. Use a `for-of` loop to print the numbers to the console until you find the number 5, then stop the loop: `let numbers = [1, 2, 3, 4, 5, 6];`.
-
-### Level 3
-
-#### Exercise 6
-
-for-of with index: Use a `for-of` loop to print each element of the array and its position (index) to the console: `let names = ['Anna', 'Bernat', 'Clara'];`.
+Contributions are welcome. Please follow the project's guidelines for submitting changes.
