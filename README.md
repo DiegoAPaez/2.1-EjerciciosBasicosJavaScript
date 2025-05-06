@@ -1,33 +1,29 @@
-# 2.1 - Basic JavaScript Exercises
+2.1 - Basic JavaScript Exercises
 
-## 1.4: Rest & Spread operators
+Explore specific topics by switching to the corresponding branch. Each branch contains specific exercises ordered by level.
 
-### Level 1
+### Branch Guide:
 
-#### Exercise 1
+-   **`arrow`**: Arrow Functions.
+-   **`ternary`**: Ternary Operator.
+-   **`callbacks`**: Callbacks.
+-   **`restspread`**: Rest and Spread Operators.
+-   **`transformations`**: Array Transformations.
+-   **`loops`**: Array Loops.
+-   **`promises`**: Promises & Async/Await.
 
-Spread operator in arrays: Create two arrays, `array1` and `array2`. Use the spread operator to create a third array that contains all the elements of `array1` and `array2`.
+💻 Technologies Used
 
-#### Exercise 2
+JavaScript
 
-Rest operator in functions: Create a function `sum` that uses the rest operator to accept an indefinite number of arguments and return their sum.
+📋 Requirements - 🛠️ Installation
 
-### Level 2
+There are no mandatory dependencies to be installed before running/testing project files, but Node.js must be installed to execute them in the terminal. Otherwise you can create and index.html file and link each script inside it's body.
 
-#### Exercise 3
+▶️ Execution
 
-Copying objects with spread: Create an object `object1`. Then create a second object, `object2`, which is a copy of `object1` using the spread operator. Change a property of `object2` and verify that `object1` has not changed.
+To run a .js file in the terminal using Node write `node file-name.js`.
 
-#### Exercise 4
+🤝 Contributions
 
-Rest in destructuring: Create an array with several elements. Use destructuring and the rest operator to assign the first two elements to variables, and then assign the rest of the elements to a third variable.
-
-### Level 3
-
-#### Exercise 5
-
-Spread in functions: Create a function that accepts three arguments. Then, create an array with three elements and call the function using the spread operator with that array.
-
-#### Exercise 6
-
-Merging objects with spread: Create two objects with different properties. Use the spread operator to merge these two objects into a new one.
+Contributions are welcome. Please follow the project's guidelines for submitting changes.
