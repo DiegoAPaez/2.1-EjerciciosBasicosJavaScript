@@ -17,14 +17,6 @@ git clone https://github.com/DiegoAPaez/2.1-EjerciciosBasicosJavaScript.git
 cd 2.1-EjerciciosBasicosJavaScript
 ```
 
-### 2️⃣ Switch to `develop` branch
-
-```bash
-git checkout develop
-```
-
-Then explore specific topics by switching to the corresponding directory. Each directory contains specific exercises ordered by level. A README file is included with the subject for each exercise.
-
 ## 📁 Folder Structure
 
 ```
